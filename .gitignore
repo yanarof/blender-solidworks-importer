@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+dist/
+*.blend1
+*.SLDASM
+*.SLDPRT
+*.sldasm
+*.sldprt

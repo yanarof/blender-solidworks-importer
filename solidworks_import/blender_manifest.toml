@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id = "solidworks_import"
+version = "0.1.0"
+name = "SolidWorks Import"
+tagline = "Open SLDASM and SLDPRT files without SolidWorks"
+maintainer = "Yacine Mrad"
+type = "add-on"
+
+tags = ["Import-Export"]
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+[permissions]
+files = "Read the SolidWorks file you import and the part files beside it"
